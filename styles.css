@@ -20,7 +20,7 @@ body {
     border: 2px solid #000;
     background-color: #f0f0f0; /* Ground color */
     width: 100%;
-    height: auto;
+    height: 600px;
     max-height: 60vh; /* Responsive height */
 }
 
